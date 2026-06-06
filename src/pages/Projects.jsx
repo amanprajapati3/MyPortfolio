@@ -8,8 +8,8 @@ const Projects = () => {
       description:
         "Full-stack e-commerce platform with authentication, admin dashboard, product management, order management, and responsive design.",
       image: "/Ecommrce-website.png",
-      liveUrl: "",
-      githubUrl: "",
+      liveUrl: "https://delhi-shoes-ecommerce.vercel.app/",
+      githubUrl: "https://github.com/amanprajapati3/Delhi-Shoes-ecommerce.git",
     },
     {
       title: "E-Commerce Website",
