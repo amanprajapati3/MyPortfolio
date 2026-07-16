@@ -25,7 +25,7 @@ const Projects = () => {
       category: "Frontend Project",
       description:
         "This is News Hub website where You can read latest news all around the world and economy with different categories.",
-      image: "/ecommerce.png",
+      image: "/NewsHub.png",
       liveUrl: "https://news-hub-swart-three.vercel.app/",
       githubUrl: "https://github.com/amanprajapati3/NewsHub.git",
     },
